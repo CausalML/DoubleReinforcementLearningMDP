@@ -15,3 +15,6 @@ For example, to run 10 parallel replications, one can run the command `seq 10 | 
 ## Experiments in Section 5.2
 
 The relevant code is in the subdirectory `exp5_2`. 
+
+
+## Matrix
